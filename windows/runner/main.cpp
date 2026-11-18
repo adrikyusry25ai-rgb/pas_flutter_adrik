@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"pas_flutter_adrik", origin, size)) {
+=======
+  if (!window.Create(L"adrik_flutter_pas", origin, size)) {
+>>>>>>> 9025e2d0317fcc9b38e24ac53f69a4f63b51f2ea
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

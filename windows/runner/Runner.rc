@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "pas_flutter_adrik" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "pas_flutter_adrik" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "pas_flutter_adrik.exe" "\0"
             VALUE "ProductName", "pas_flutter_adrik" "\0"
+=======
+            VALUE "FileDescription", "adrik_flutter_pas" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "adrik_flutter_pas" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "adrik_flutter_pas.exe" "\0"
+            VALUE "ProductName", "adrik_flutter_pas" "\0"
+>>>>>>> 9025e2d0317fcc9b38e24ac53f69a4f63b51f2ea
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -5,7 +5,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.pas_flutter_adrik"
+=======
+    namespace = "com.example.adrik_flutter_pas"
+>>>>>>> 9025e2d0317fcc9b38e24ac53f69a4f63b51f2ea
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -16,7 +20,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.pas_flutter_adrik"
+=======
+        applicationId = "com.example.adrik_flutter_pas"
+>>>>>>> 9025e2d0317fcc9b38e24ac53f69a4f63b51f2ea
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

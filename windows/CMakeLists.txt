@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(pas_flutter_adrik LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "pas_flutter_adrik")
+=======
+project(adrik_flutter_pas LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "adrik_flutter_pas")
+>>>>>>> 9025e2d0317fcc9b38e24ac53f69a4f63b51f2ea
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

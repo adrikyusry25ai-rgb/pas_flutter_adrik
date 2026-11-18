@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # pas_flutter_adrik
+=======
+# adrik_flutter_pas
+>>>>>>> 9025e2d0317fcc9b38e24ac53f69a4f63b51f2ea
 
 A new Flutter project.
 

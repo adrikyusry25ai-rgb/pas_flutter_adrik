@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="pas_flutter_adrik"
+=======
+        android:label="adrik_flutter_pas"
+>>>>>>> 9025e2d0317fcc9b38e24ac53f69a4f63b51f2ea
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

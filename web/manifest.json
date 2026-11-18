@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "pas_flutter_adrik",
     "short_name": "pas_flutter_adrik",
+=======
+    "name": "adrik_flutter_pas",
+    "short_name": "adrik_flutter_pas",
+>>>>>>> 9025e2d0317fcc9b38e24ac53f69a4f63b51f2ea
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
